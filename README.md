@@ -1,6 +1,6 @@
 # sabor_express
 
-<img src="./img/imagem.png" alt="imagem do app" width="50%">
+<img src="./img/image.png" alt="imagem do app" width="50%">
 
 ## Ferramentas utilizadas:
 
